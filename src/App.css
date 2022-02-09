@@ -1,5 +1,7 @@
 .App {
-  text-align: center;
+  background-image: url('https://c1.wallpaperflare.com/preview/714/247/672/desktop-table-wooden-wood.jpg');
+  height: 150vh;
+  background-size: cover;
 }
 
 .App-logo {
